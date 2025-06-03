@@ -1,14 +1,17 @@
-#My Gains
+# My Gains
 
-This is a personal proyect made to keep a record of my lifting training
+This is a personal project made to keep a record of my lifting training.
 
--Keep a record of my PR
--Keep a record of my latest lift weights
--show grapics about my progress
--send me remeinds about anote tha data of my trains 
--keep an streak (for noobies)
+## 📋 Features
 
-for now this will be the main features of the proyect but I hope I can add more features in a futere
+- Keep a record of my PR  
+- Keep a record of my latest lift weights  
+- Show graphics about my progress  
+- Send me reminders to note the data of my training  
+- Keep a streak (for newbies)
 
+For now, these will be the main features of the project, but I hope I can add more in the future.
 
-##I hope this will be so funny to do ❤️😊
+## 💭 Final Note
+
+I hope this will be so fun to do ❤️😊
