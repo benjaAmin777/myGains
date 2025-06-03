@@ -6,7 +6,7 @@ This project is made in laravel 12 using Livewire 3.6.3
 ## 📋 Features
 
 - Keep a record of my PR
-  -when last_weight > PR then it will become the new PR
+  - when last_weight > PR then it will become the new PR
 - Keep a record of my latest lift weights  
 - Show graphics about my progress  
 - Send me reminders to note the data of my training  
