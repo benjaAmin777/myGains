@@ -21,7 +21,7 @@ git switch dev
 git switch -c 'name of your branch'
 
 ```
-
+## ⛈️ For now the issues are more like a brainstorming, so I accept suggestions
 
 ## 💭 Final Note
 
